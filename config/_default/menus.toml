@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+ [[main]]
+    name = "CV"
+    url = "/img/mc_cv.pdf"
+    weight = 20
 
 [[main]]
   name = "Projects"
@@ -34,7 +34,4 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
- [[main]]
-    name = "CV"
-    url = "/img/mc_cv.pdf"
-    weight = 70
+
