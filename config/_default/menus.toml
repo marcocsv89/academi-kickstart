@@ -36,5 +36,5 @@
 #    weight = 70
  [[main]]
     name = "CV"
-    url = "academi-kickstart/static/img/mc_cv.pdf"
+    url = "/img/mc_cv.pdf"
     weight = 70
