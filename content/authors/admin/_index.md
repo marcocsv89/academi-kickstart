@@ -33,7 +33,7 @@ education:
   # - course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: Bachelo's Degree in Electronics Engineering
     institution: Massachusetts Institute of Technology
     year: 2008
 
