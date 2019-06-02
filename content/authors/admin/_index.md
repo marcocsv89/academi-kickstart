@@ -47,6 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:mrco89@hotmail.com".
+- icon: fa-linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marco-casavola/
  # - icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
