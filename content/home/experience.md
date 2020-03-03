@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Florence"
   date_start = "2014-01-01"
   date_end = "Current"
-  description = """ Electronic repair service and custom electronics system develpment focused on audio devices
+  description = """ 
   Responsibilities include:
   
   * Guitar Amplifier Repair & Overhaul
