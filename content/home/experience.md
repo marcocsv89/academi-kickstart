@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2014-01-01"
   date_end = "2014-01-03"
   description = """ Electronic Repair Service and custom electronics system develpment focused on audio devices
+  
   Responsabilities include:
   
   * Guitar Amplifier Repair & Overhaul
