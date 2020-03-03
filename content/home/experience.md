@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Internship"
-  company = "MCE Audio Electronics Devices"
-  company_url = "https://www.facebook.com/mceaudio"
+  title = "Intern"
+  company = "X-Phase S.r.l."
+  company_url = "http://www.x-phase.it/it/"
   location = "Florence"
   date_start = "2019-12-23"
   date_end = ""
@@ -29,12 +29,12 @@ date_format = "Jan 2006"
 Thesis Topic: Hardware Design for a Non-Desctructive Industrial Application Echographic System.
 
 Main Task:
+
 * Projects Specifications and Requirements analysis
 * Schematics
 * PCB Layout
 * Testing and Documentations
-
-  """
+"""
 
 
 
