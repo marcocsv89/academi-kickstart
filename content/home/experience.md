@@ -17,14 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "PCB Layout Engineer"
+  company = "AppliCon S.r.l"
+  company_url = "http://www.applicon.it/"
+  location = "Cosenza"
+  date_start = "2019-10-01"
+  date_end = "2019-12-20"
+  description = """Worked as a freelance engineer. My task was the PCB Layout of a submarine application board."""
+
+
 [[experience]]
   title = "Electronic Technician"
   company = "MCE Audio Electronics Devices"
   company_url = "https://www.facebook.com/mceaudio"
   location = "Florence"
   date_start = "2014-01-01"
-  date_end = "2014-01-03"
-  description = """ Electronic Repair Service and custom electronics system develpment focused on audio devices
+  date_end = "2020-03-03"
+  description = """ Electronic repair service and custom electronics system developement focused on audio devices.
   
   Responsabilities include:
   
@@ -33,14 +44,7 @@ date_format = "Jan 2006"
   * Pedalboard Wiring
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+
   
  #  [[experience]]
 #   title = "Electronic Technician"
