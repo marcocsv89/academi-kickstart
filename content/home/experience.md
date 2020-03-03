@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Electronic Technician"
   company = "MCE Audio Electronics Devices"
-  company_url = "https://www.facebook.com/mceaudio"
+  company_url = ""
   location = "Florence"
   date_start = "2014-01-01"
   date_end = "Current"
