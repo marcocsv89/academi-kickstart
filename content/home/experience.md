@@ -51,10 +51,12 @@ date_format = "Jan 2006"
   description = """Electronic repair service and custom electronics system develpment focused on audio devices."""
   
   Responsibilities include:
+  
   * Guitar Amplifier Repair & Overhaul
   * PCB Development
   * Pedalboard Wiring
   
+  """
   
   
 
