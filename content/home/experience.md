@@ -40,5 +40,21 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  
+  [[experience]]
+  title = "Electronic Technician"
+  company = "MCE Audio Electronics Devices"
+  company_url = "https://www.facebook.com/mceaudio"
+  location = "Florence"
+  date_start = "2014-01-01"
+  date_end = "Present"
+  description = """Electronic repair service and custom electronics system develpment focused on audio devices"""
+  Responsibilities include:
+  * Guitar Amplifier Repair & Overhaul
+  * PCB Development
+  * Pedalboard Wiring
+  
+  
+  
 
 +++
