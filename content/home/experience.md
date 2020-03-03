@@ -23,9 +23,11 @@ date_format = "Jan 2006"
   company = "MCE Audio Electronics Devices"
   company_url = "https://www.facebook.com/mceaudio"
   location = "Florence"
-  date_start = "2014-01-01"
-  date_end = "2020-03-03"
-  description = """ Internship for my Master's Degree Thesis. Thesis Topic: Hardware Design for a Non-Desctructive Industrial Application Echographic System.
+  date_start = "2019-12-23"
+  date_end = ""
+  description = """ Internship for my Master's Degree Thesis. 
+Thesis Topic: Hardware Design for a Non-Desctructive Industrial Application Echographic System.
+
 Main Task:
 * Projects Specifications and Requirements analysis
 * Schematics
@@ -53,7 +55,7 @@ Main Task:
   company_url = "https://www.facebook.com/mceaudio"
   location = "Florence"
   date_start = "2014-01-01"
-  date_end = "2020-03-03"
+  date_end = "2019-10-03"
   description = """ Electronic repair service and custom electronics system developement focused on audio devices.
   
   Responsabilities include:
