@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Electronic Technician"
   company = "MCE Audio Electronics Devices"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  company_url = "https://www.facebook.com/mceaudio"
+  location = "Florence"
+  date_start = "2014-01-01"
+  date_end = "Current"
+  description = """ Electronic repair service and custom electronics system develpment focused on audio devices
   Responsibilities include:
   
-  * uitar Amplifier Repair & Overhaul
+  * Guitar Amplifier Repair & Overhaul
   * PCB Development
   * Pedalboard Wiring
   """
