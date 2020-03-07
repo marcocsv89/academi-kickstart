@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
  title = "Projects"
-# subtitle = "Progetto 1"
+ subtitle = "Progetto 1"
 
 [content]
   # Page type to display. E.g. project.
@@ -67,7 +67,7 @@ weight = 65  # Order that this section will appear.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-   text_color_light = true  
+   text_color_light = false  
   
 [advanced]
  # Custom CSS. 
