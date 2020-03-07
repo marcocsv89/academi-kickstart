@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: facebook
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+  url: https://www.facebook.com/AudioGearObsession.Ago
+url_code: "https://audiogearobsession.com/ "
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
