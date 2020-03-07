@@ -2,7 +2,7 @@
 title: SummingFacility
 summary: Eurorack Format Analog Audio Mixer.
 tags:
- - Vacuum Tubes
+ - Audio
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page). 
@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
