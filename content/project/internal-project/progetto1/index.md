@@ -1,6 +1,6 @@
 ---
 title: SummingFacility
-summary: Eurorack Format Analog Audio Mixer.
+summary: Eurorack Audio Mixer.
 tags:
  - Audio
 date: "2016-04-27T00:00:00Z"
