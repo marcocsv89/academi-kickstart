@@ -29,10 +29,13 @@ url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
+---
+
+
 
 During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar, biomedical devices. I was involved in the Project of a modular programmable ultrason
 
 
----
+
 
 
