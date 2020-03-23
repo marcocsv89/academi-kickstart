@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 # external_link: "https://audiogearobsession.com/"
 
 image:
-  caption: Photo random
+  caption: 
   focal_point: Smart
 
 links:
