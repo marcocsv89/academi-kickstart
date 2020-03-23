@@ -32,4 +32,16 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
+
+[[feature]]
+  icon = "f2db"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+
+
+
+
+
+
 +++
