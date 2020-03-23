@@ -35,6 +35,10 @@ We decide to share our expericence in DIY audio electronic project developed dur
 SUMMINGFACILITY is a 6 channel audio mixer in modular eurorack form factor. The whole circuit is 100% analog. It features 6 
 balanced audio channels with gain, level, pan --- control and mute. The output section of the mixer features two aux sends and two return channels.
 
+{{< figure library="true" src="pcb1.jpg" title="A caption" lightbox="true" >}}
+
+
+
 Check our's works here:
 https://audiogearobsession.com/ 
 
