@@ -35,10 +35,14 @@ weight = 65  # Order that this section will appear.
    [[content.filter_button]]
      name = "Vacuum Tubes"
      tag = "Vacuum Tubes"
-     
-    [[content.filter_button]]
+    
+   [[content.filter_button]]
      name = "Digital"
      tag = "Digital"
+    
+   [[content.filter_button]]
+     name = "Analog"
+     tag = "Analog"
      
      
      
