@@ -18,10 +18,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.facebook.com/AudioGearObsession.Ago
-url_code: "https://audiogearobsession.com/ "
+# url_code: "https://audiogearobsession.com/ "
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
+# url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -33,7 +33,22 @@ url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 
 
 
-During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar, biomedical devices. I was involved in the Project of a modular programmable ultrason
+During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino, specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar and biomedical devices.
+
+My internship (and Thesis) objective was the project and development of signal processing PCB for a modular ultrasound system.
+The board is a modular eurocard 100x160 mm motherboard that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch togheter with several other serial high speed peripherals.
+
+Here below, a list of the features:
+
+
+
+
+
+
+
+
+
+ 
 
 
 
