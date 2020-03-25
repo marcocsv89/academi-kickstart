@@ -14,13 +14,13 @@ image:
   focal_point: Center
 
 links:
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/AudioGearObsession.Ago
+# - icon: facebook
+#  icon_pack: fab
+#  name: Follow
+#  url: https://www.facebook.com/AudioGearObsession.Ago
 # url_code: "https://audiogearobsession.com/ "
-url_pdf: ""
-url_slides: ""
+# url_pdf: ""
+# url_slides: ""
 # url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 
 # Slides (optional).
@@ -36,7 +36,7 @@ url_slides: ""
 During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino, specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar and biomedical devices.
 
 My internship (and Thesis) objective was the project and development of signal processing PCB for a modular ultrasound system.
-The PCN is an eurocard 100x160 mm motherboard, compliant to CompactPCI serial specifications, that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch, among other serial high speed peripherals.
+The PCB is an 10 Layer eurocard 100x160 mm carrier board, compliant to CompactPCI serial specifications, that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch, among other serial high speed peripherals.
 
 Here below, a list of the features:
 
@@ -47,6 +47,8 @@ Here below, a list of the features:
 - PCI Express x4
 - Gigabit Ethernet
 - I2S
+- SPI
+- UART
 - M2 nVMe Disk
 
 
