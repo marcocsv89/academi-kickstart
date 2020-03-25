@@ -36,9 +36,22 @@ url_slides: ""
 During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino, specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar and biomedical devices.
 
 My internship (and Thesis) objective was the project and development of signal processing PCB for a modular ultrasound system.
-The board is a modular eurocard 100x160 mm motherboard that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch togheter with several other serial high speed peripherals.
+The PCN is an eurocard 100x160 mm motherboard, compliant to CompactPCI serial specifications, that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch, among other serial high speed peripherals.
 
 Here below, a list of the features:
+
+- Jetson TX2 SoM (256-core NVIDIA Pascal™ GPU architecture with 256 NVIDIA CUDA cores)
+- HDMI
+- USB 3.0 & 2.0
+- SD CARD
+- PCI Express x4
+- Gigabit Ethernet
+- I2S
+- M2 nVMe Disk
+
+
+A block scheme of the whole system:
+
 
 
 
