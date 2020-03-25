@@ -35,6 +35,13 @@ weight = 65  # Order that this section will appear.
    [[content.filter_button]]
      name = "Vacuum Tubes"
      tag = "Vacuum Tubes"
+     
+    [[content.filter_button]]
+     name = "Digital"
+     tag = "Digital"
+     
+     
+     
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
