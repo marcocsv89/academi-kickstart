@@ -57,6 +57,10 @@ Here below, a list of the features:
 A block scheme of the whole system:
 {{< figure library="true" src="schema_a_blocchi2.jpg" lightbox="true" >}}
 
+The board from the EDA tool 3d Viewer (Allegro PCB):
+{{< figure library="true" src="featured.jpg" lightbox="true" >}}
+
+
 
 
 
