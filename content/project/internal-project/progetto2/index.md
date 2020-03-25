@@ -46,10 +46,12 @@ Here below, a list of the features:
 - SD CARD
 - PCI Express x4
 - Gigabit Ethernet
-- I2S
+- I2C
 - SPI
+- JTAG
+- eDP Display Connector
 - UART
-- M2 nVMe Disk
+- M2 EVMe Disk
 
 
 A block scheme of the whole system:
