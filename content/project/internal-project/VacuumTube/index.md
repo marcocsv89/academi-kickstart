@@ -1,5 +1,5 @@
 ---
-title: Tweed&JCM45
+title: Tweed&JCM50
 summary: Guitar Tube Amp
 tags:
  - Vaccum Tubes
@@ -29,14 +29,14 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-I'v always been passionated about music and guitar (I play it since I was 10 years old). I stardted building pedals from the moment I manage to use a soldering iron, and I developed a passion for the old tube amp device. I these Years I build 5 to 6 all working guitar tube amplifier witch I used regularly when I play whith my band.
+I've always been passionated about music and guitar (I play it since I was 10 years old). I stareted building pedals and amps from the moment I manage to use a soldering iron and I developed a passion for the old tube amp device. I these Years I build several guitar tube amplifier which I used regularly when I play whith my band.
 
-Every one of the these amplifiers Is build using the old 50s turret board methods: no PCB, every components is soldered with point to point connectio. Just hours of wiring and patience.
+Every one of the these amplifiers ss build using the old 50s turret board methods: no PCB, every components is soldered with point to point connection. Just hours of careful wiring and patience.
 
 
 {{< figure library="true" src="TController_board.jpg" lightbox="true" >}}
 
-Soldered PCB:
+
 {{< figure library="true" src="photo1.jpg" lightbox="true" >}}
 
 
