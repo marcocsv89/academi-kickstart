@@ -34,7 +34,7 @@ I've always been passionated about music and guitar (I play it since I was 10 ye
 Every one of the these amplifiers ss build using the old 50s turret board methods: no PCB, every components is soldered with point to point connection. Just hours of careful wiring and patience.
 
 
-{{< figure library="true" src="TController_board.jpg" lightbox="true" >}}
+{{< figure library="true" src="Turrett2.jpg" lightbox="true" >}}
 
 
 {{< figure library="true" src="photo1.jpg" lightbox="true" >}}
