@@ -53,6 +53,10 @@ Here below, a list of the features:
 
 
 A block scheme of the whole system:
+{{< figure library="true" src="pcb1.jpg" lightbox="true" >}}
+
+Some routing:
+{{< figure library="true" src="pcb1.jpg" lightbox="true" >}}
 
 
 
