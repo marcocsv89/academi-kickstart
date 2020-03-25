@@ -36,7 +36,7 @@ links:
 During the last year of Univeristy I worked as an Intern for X-Phase s.r.l. , an Italian company based in Sesto Fiorentino, specialized in advanced electronic system for biomedical and industrial applications such as echographic system, radar and biomedical devices.
 
 My internship (and Thesis) objective was the project and development of signal processing PCB for a modular ultrasound system.
-The PCB is an 10 Layer eurocard 100x160 mm carrier board, compliant to CompactPCI serial specifications, that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch, among other serial high speed peripherals.
+The PCB is a 10 Layer eurocard 100x160 mm carrier board, compliant to CompactPCI serial specifications, that embeds a NVidia System on Module (Jetson Tx2) and a PCI Express 2.0 Switch, among other serial high speed peripherals.
 
 Here below, a list of the features:
 
