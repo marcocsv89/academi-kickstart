@@ -53,21 +53,11 @@ Here below, a list of the features:
 
 
 A block scheme of the whole system:
-{{< figure library="true" src="schema_a_blocchi.jpg" lightbox="true" >}}
-
-Some routing:
-{{< figure library="true" src="wiring.jpg" lightbox="true" >}}
+{{< figure library="true" src="schema_a_blocchi2.jpg" lightbox="true" >}}
 
 
 
 
-
-
-
-
-
-
- 
 
 
 
