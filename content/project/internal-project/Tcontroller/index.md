@@ -34,10 +34,10 @@ This is a DIY experiment, the idea behind was the temperature monitoring for a B
 I've used Altium Designer for the board design and STMCubeIDE for the firmware develpment.
 
 PCB on Altium
-{{< figure library="true" src="pcb1.jpg" lightbox="true" >}}
+{{< figure library="true" src="TController_board.jpg" lightbox="true" >}}
 
 Soldered PCB:
-
+{{< figure library="true" src="photo1.jpg" lightbox="true" >}}
 
 
 
