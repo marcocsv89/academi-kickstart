@@ -37,7 +37,7 @@ Every one of the these amplifiers ss build using the old 50s turret board method
 {{< figure library="true" src="Turrett2.jpg" lightbox="true" >}}
 
 
-{{< figure library="true" src="photo1.jpg" lightbox="true" >}}
+{{< figure library="true" src="jtm50_f1.jpg" lightbox="true" >}}
 
-
+{{< figure library="true" src="jtm50_r1.jpg" lightbox="true" >}}
 
