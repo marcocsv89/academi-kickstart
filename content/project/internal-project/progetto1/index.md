@@ -30,7 +30,7 @@ url_video: "https://www.youtube.com/watch?v=Fcz6rSpaFNY"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-At the beginning of the first year of my Master's Degree in Electronics Engineering studies in Florence, me and friend of mine, came up with the idea of working toghether to build audio electronics equipments. 
+At the beginning of the first year of my Master's Degree in Electronics Engineering in Florence, me and friend of mine, came up with the idea of working toghether to build audio electronics equipments. 
 We decide to share our mutual expericence in DIY audio electronic developed during years. We call in two other friends and after nearly two year of developments our first eurorack module was born.
 
 SUMMINGFACILITY is a 6 channel audio mixer in modular eurorack form factor. The whole circuit is 100% analog. It features 6 
