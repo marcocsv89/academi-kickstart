@@ -22,19 +22,20 @@ bio: Electronics Engineer and Musician.
 
 interests:
 - Hardware Design
-- Audio Electronics Devices
+- Digital Electronics
 - PCB Design (Digital & Analog)
-- MCU & FPGA Firmware Programming 
+- Audio Electronics Devices
 - Audio Softwares
+- Music
 
 education:
   courses:
   # - course: PhD in Artificial Intelligence
   #  institution: Stanford University
   # year: 2012
-  # - course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
+   - course: Master's Degree in Electronics Engineering
+    institution: Università degli Studi di Firenze
+    year: 2020
   - course: Bachelor's Degree in Electronics Engineering
     institution: Università degli Studi di Firenze
     year: 2017
@@ -46,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mrco89@hotmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:marcocsv89@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marco-casavola/
