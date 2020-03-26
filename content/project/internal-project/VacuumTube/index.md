@@ -29,13 +29,11 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-I've always been passionated about music and guitar (I play it since I was 10 years old). I stareted building pedals and amps from the moment I manage to use a soldering iron and I developed a passion for the old tube amp device. I these Years I build several guitar tube amplifier which I used regularly when I play whith my band.
+I've always been passionated about music and guitar (I play it since I was 10 years old). I started building guitar pedals and amps from the moment I manage to use a soldering iron and I developed a passion for old tube amp device. In these years I build several guitar tube amplifiers which I use on regular basis when I play live with my band.
 
-Every one of the these amplifiers ss build using the old 50s turret board methods: no PCB, every components is soldered with point to point connection. Just hours of careful wiring and patience.
-
+Every one of the these amplifiers is build using the old 50s turret board methods: no PCB, every components is soldered with point to point connection. Just hours of careful wiring and patience.
 
 {{< figure library="true" src="Turrett2.jpg" lightbox="true" >}}
-
 
 {{< figure library="true" src="jtm50_f1.jpg" lightbox="true" >}}
 
