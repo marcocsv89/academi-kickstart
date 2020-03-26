@@ -2,7 +2,7 @@
 title: Tweed&JCM50
 summary: Guitar Tube Amp
 tags:
- - Vaccum Tubes
+ - Vacuum Tubes
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page). 
