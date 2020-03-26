@@ -33,7 +33,7 @@ education:
   # - course: PhD in Artificial Intelligence
   #  institution: Stanford University
   # year: 2012
-   - course: Master's Degree in Electronics Engineering
+  - course: Master's Degree in Electronics Engineering
     institution: Università degli Studi di Firenze
     year: 2020
   - course: Bachelor's Degree in Electronics Engineering
