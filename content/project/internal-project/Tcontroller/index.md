@@ -29,11 +29,11 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-This is a DIY experiment, the idea behind was the temperature monitoring for a BBQ. The system is based on a thermocouple IC which sends the thermocouple data to a STM32L4 Microcontroller, the microntroller then transmits the data out via uart to a Blueotooth HC06 Module. The board can be powered from the 5V Usb connector or via battery. The board includes battery chargery & fuel gauge circuit. A small Oled 128 x 64 is present on the PCB for visual indication of the temperature.
+This is a DIY experiment, the idea behind this project is the temperature monitoring for a BBQ. The system is based on a thermocouple IC which sends the thermocouple data to a STM32L4 Microcontroller, the microntroller then transmits the data out  to a Blueotooth HC06 Module. The board can be powered from the 5V Usb connector or from a lithium battery. The board includes  battery charger & fuel gauge circuits. A small Oled 128 x 64 is present on the PCB for a visual indication of the temperature.
 
 I've used Altium Designer for the board design and STMCubeIDE for the firmware develpment.
 
-PCB on Altium
+PCB on Altium:
 {{< figure library="true" src="TController_board.jpg" lightbox="true" >}}
 
 Soldered PCB:
