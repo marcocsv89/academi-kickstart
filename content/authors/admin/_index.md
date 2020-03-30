@@ -76,5 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Electronic Engineering student currently attending  Master's Degree in Electronic Engineering at UniFi, Florence, Italy. 
-I work as a part time guitar teacher and a electronic technician.
+I’m an Electronic Engineering student currently attending the Master’s Degree in Electronic Engineering at UniFi, Florence, Italy, supposedly graduating on April 2020. 
+I am a part-time guitar player and teacher and I have a lot of experience as an electronic 
+technician.
